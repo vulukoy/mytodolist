@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Todo List</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_task">Add new task</string>
+    <string name="title_activity_edit_task">Edit Task</string>
+    <string name="new_task_subject">Subject</string>
+    <string name="new_task_description">Description</string>
+    <string name="new_task_date">Date</string>
+    <string name="new_task_add">Add</string>
+    <string name="new_task_cancel">Cancel</string>
+    <string name="button_title_delete_task">Delete</string>
+    <string name="delete_task_confirm">Are you sure to remove the task?</string>
+    <string name="delete_task_confirm_header">Are you sure</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="tab_main_title">Main</string>
+    <string name="tab_history_title">History</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
